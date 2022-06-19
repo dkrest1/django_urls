@@ -1,0 +1,7 @@
+# for files not needed to be uploaded
+env/
+db.sqlite3
+
+#to hide my secret key
+
+.env 
